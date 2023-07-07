@@ -36,11 +36,47 @@
     "checkbox.border": "#9e4b97",
     "checkbox.selectBackground": "#b286c0",
     "checkbox.selectBorder": "#9e4b97",
-
+    // dropdown
     "dropdown.background": "#eddff5",
     "dropdown.listBackground": "#eddff5",
     "dropdown.border": "#ba9bc4",
     "dropdown.foreground": "#7f4388",
+    // input controls
+    "input.background": "#ddd7df",
+    "inputOption.activeBackground": "#f0dff5",
+    "inputOption.hoverBackground": "#f0dff5",
+    "input.foreground": "#7f4388",
+    "input.placeholderForeground": "#b299b6",
+    "inputOption.activeBorder": "#7f4388",
+    // input validation
+    "inputValidation.errorBackground": "#ff684edd",
+    "inputValidation.errorForeground": "#750000",
+    "inputValidation.errorBorder": "#750000",
+
+    "inputValidation.infoBackground": "#dba7dddd",
+    "inputValidation.infoForeground": "#7f4388",
+    "inputValidation.infoBorder": "#7f4388",
+
+    "inputValidation.warningBackground": "#ffdaa2dd",
+    "inputValidation.warningForeground": "#ff7b00",
+    "inputValidation.warningBorder": "#ff7b00",
+    // scrollbar
+    "scrollbar.shadow": "#ceacd88f",
+    "scrollbarSlider.background": "#7f438880",
+    "scrollbarSlider.hoverBackground": "#96639e80",
+    "scrollbarSlider.activeBackground": "#7f4388d0",
+    // progress bar
+    "progressBar.background": "#7f4388",
+    // lists and trees e.g. file explorer
+    "list.activeSelectionBackground": "#d0b6d8",
+    "list.inactiveSelectionBackground": "#e2dde4",
+    "list.activeSelectionForeground": "#3d2a40",
+    "list.inactiveSelectionForeground": "#755d79",
+    "list.dropBackground": "#d0b6d8",
+    
+
+    
+
 	},
 	"tokenColors": [
 		{
