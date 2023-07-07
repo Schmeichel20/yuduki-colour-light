@@ -1,0 +1,21 @@
+{
+  "name": "yuduki-colour-light",
+  "displayName": "Yuduki Light",
+  "description": "A light colour theme based on Yuduki Yukari.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yuduki (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Yuduki (Light)-color-theme.json"
+      }
+    ]
+  }
+}
