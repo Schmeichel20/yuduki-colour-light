@@ -1,10 +1,33 @@
 {
 	"name": "Yuduki (Light)",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333",
-        "list.activeSelectionIconForeground": "#fff"
+		"editor.background": "#f0dff5",
+		"editor.foreground": "#3d2a40",
+    "list.activeSelectionIconForeground": "#dbc6df",
+
+    "focusBorder": "#9e4b97",
+    "foreground": "#3d2a40",
+    "disabledForeground": "#787279",
+    "widget.shadow": "#a38ba760",
+    "selection.background": "#d0b6d8",
+    "descriptionForeground": "#7f4388",
+    "errorForeground": "#a80000",
+    "icon.foreground": "#3d2a40",
+
+    "activityBar.background": "#79507e",
+    "window.activeBorder": "#9e4b97",
+    "window.inactiveBorder": "#744f70",
+
+    "textBlockQuote.background": "#c8b9cc",
+    "textCodeBlock.background": "#d6d1eb",
+    "textPreformat.foreground": "#413a42",
+    "textSeparator.foreground": "#7e4479",
+
 	},
+  "workbench.colorCustomizations": {
+    
+
+  },
 	"tokenColors": [
 		{
 			"name": "Comments",
@@ -14,7 +37,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#8b798d"
 			}
 		},
 		{
@@ -22,7 +45,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AAAAAA"
+				"foreground": "#7b677e"
 			}
 		},
 		{
@@ -32,7 +55,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#ce5200"
 			}
 		},
 		{
@@ -46,7 +69,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#776b76"
 			}
 		},
 		{
@@ -56,7 +79,8 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+        "fontStyle": "bold",
+				"foreground": "#c541ba"
 			}
 		},
 		{
@@ -66,7 +90,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#794788"
 			}
 		},
 		{
@@ -77,7 +101,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#8e32c4"
 			}
 		},
 		{
@@ -87,7 +111,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#514c80"
 			}
 		},
 		{
@@ -98,7 +122,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#973062"
 			}
 		},
 		{
@@ -110,7 +134,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#c5387a"
 			}
 		},
 		{
@@ -135,42 +159,42 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#d46300"
 			}
 		},
 		{
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#6b8576"
 			}
 		},
 		{
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#4d6858"
 			}
 		},
 		{
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#63818f"
 			}
 		},
 		{
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#5c8354"
 			}
 		},
 		{
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#777777"
+				"foreground":  "#756c8d"
 			}
 		},
 		{
