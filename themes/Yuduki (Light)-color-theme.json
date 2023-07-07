@@ -23,11 +23,25 @@
     "textPreformat.foreground": "#413a42",
     "textSeparator.foreground": "#7e4479",
 
-	},
-  "workbench.colorCustomizations": {
-    
+    "toolbar.activeBackground": "#e8d1ee",
+    "toolbar.hoverBackground": "#f0dff5",
+    "toolbar.hoverOutline": "#ba9bc4",
 
-  },
+    "button.background": "#7f4388",
+    "button.foreground": "#f0dff5",
+    "button.hoverBackground": "#96639e",
+    "button.separator": "#f1e6f520",
+
+    "checkbox.background": "#f0dff5",
+    "checkbox.border": "#9e4b97",
+    "checkbox.selectBackground": "#b286c0",
+    "checkbox.selectBorder": "#9e4b97",
+
+    "dropdown.background": "#eddff5",
+    "dropdown.listBackground": "#eddff5",
+    "dropdown.border": "#ba9bc4",
+    "dropdown.foreground": "#7f4388",
+	},
 	"tokenColors": [
 		{
 			"name": "Comments",
