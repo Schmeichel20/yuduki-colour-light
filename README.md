@@ -1,16 +1,9 @@
-# yuduki-colour-light README
+# Yuduki (light)
 
-## Working with Markdown
+A light colour theme for VS Code based on Yuduki Yukari.  
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Usage
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+When it is done, go to release and grab the latest package.  
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+If you want to use it WIP, refer to https://code.visualstudio.com/api/extension-guides/color-theme on how to use an unpacked VS code colour theme.
