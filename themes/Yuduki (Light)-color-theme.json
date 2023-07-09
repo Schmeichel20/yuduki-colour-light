@@ -1,7 +1,7 @@
 {
 	"name": "Yuduki (Light)",
 	"colors": {
-		"editor.background": "#f0dff5",
+		"editor.background": "#f7eefa",
 		"editor.foreground": "#3d2a40",
     "list.activeSelectionIconForeground": "#dbc6df",
 
@@ -73,6 +73,7 @@
     "list.activeSelectionForeground": "#3d2a40",
     "list.inactiveSelectionForeground": "#755d79",
     "list.dropBackground": "#d0b6d8",
+
     
 
     
