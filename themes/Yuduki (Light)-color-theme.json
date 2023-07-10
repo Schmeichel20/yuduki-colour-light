@@ -92,14 +92,18 @@
     "list.deemphasizedForeground": "#ccc6ce",
     "tree.indentGuidesStroke": "#d0b6d8",
     "tree.inactiveIndentGuidesStroke": "#968399",
-    
+    "tree.tableColumnsBorder": "#00000000",
+    "tree.tableOddRowsBackground": "#f7eefa",
 
     // Activity bar
     "activityBar.activeBackground": "#c98ac6",
-    "activityBar.inactiveForeground": "#e2dde4",
+    "activityBar.foreground": "#e2dde4",
+    "activityBar.inactiveForeground": "#bfa4ca",
+    "activityBar.dropBorder": "#f1ecf3",
     
 
-    
+    // Status bar
+    "statusBar.background": "#774f7c",
 
 	},
 	"tokenColors": [
