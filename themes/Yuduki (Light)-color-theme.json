@@ -146,6 +146,13 @@
     "editorGroupHeader.noTabsBackground": "#fdf6ff",
     "editorGroup.emptyBackground": "#eae6eb",
     "editorGroup.focusedEmptyBorder": "#fdf6ff",
+    // Tabs
+    "tab.activeBackground": "#f7eefa",
+    "tab.inactiveBackground": "#e8e0eb",
+    "tab.activeForeground": "#9e4b97",
+    "tab.inactiveForeground": "#b3a3b1",
+    "tab.unfocusedActiveBackground": "#f4e8f7",
+    "tab.unfocusedInactiveBackground": "#d2cdd4",
 
     
 
