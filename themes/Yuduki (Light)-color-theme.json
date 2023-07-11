@@ -5,7 +5,6 @@
     "focusBorder": "#9e4b97",
     "foreground": "#3d2a40",
     "disabledForeground": "#787279",
-    "widget.shadow": "#a38ba760",
     "selection.background": "#d0b6d8",
     "descriptionForeground": "#7f4388",
     "errorForeground": "#c40000",
@@ -38,7 +37,7 @@
     "dropdown.border": "#ba9bc4",
     "dropdown.foreground": "#7f4388",
     // input controls
-    "input.background": "#ddd7df",
+    "input.background": "#e3d7e7",
     "inputOption.activeBackground": "#f0dff5",
     "inputOption.hoverBackground": "#f0dff5",
     "input.foreground": "#7f4388",
@@ -170,13 +169,95 @@
     "editor.wordHighlightBackground": "#95c5a980",
     "editor.findMatchBackground": "#85e5c5d0",
     "editor.findMatchHighlightBackground": "#cbeee2a0",
+    "editor.hoverHighlightBackground": "#e1cfe5d0",
+    "editor.lineHighlightBackground": "#f6d9ff60",
+    "editorLink.activeForeground": "#38b9ec",
+    // Search viewlet (in the side bar)
+    "search.resultsInfoForeground": "#772d83",
+    // the editor tab after clicking 'Open in editor' in the search viewlet
+    "searchEditor.findMatchBackground": "#85e5c5d0",
+    "searchEditor.findMatchBorder": "#0000",
+    "searchEditor.textInputBorder": "#772d83",
+    "editor.rangeHighlightBackground": "#ffa02480",
+    "editor.symbolHighlightBackground": "#38b9ec40",
+    "editorWhitespace.foreground": "#9868a8",
+    "editorIndentGuide.activeBackground": "#ff9100",
+    "editorIndentGuide.background": "#9868a8",
+    "editorInlayHint.background": "#eddff5",
+    "editorInlayHint.foreground": "#772d83",
+    "editorInlayHint.typeForeground": "#a34ebd",
+    "editorInlayHint.parameterForeground": "#2ea4db",
+    "editorRuler.foreground": "#d0b6d8",
+    "editor.linkedEditingBackground": "#f7a1dd80",
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#ff9100",
+    "editorBracketMatch.background": "#ff91008e",
+    "editorBracketMatch.border": "#85e5c5",
+    "editorBracketHighlight.foreground1": "#764c83",
+    "editorBracketHighlight.foreground2": "#a200ff",
+    "editorBracketHighlight.foreground3": "#c256a7",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff6060",
+    "editor.foldBackground": "#edd6f0a0",
+    // overview ruler
+    "editorOverviewRuler.background": "#f8e7f5",
     
+    // errors and warnings
+    "editorError.foreground": "#ff0000",
+    "editorWarning.foreground": "#ff9100",
+    "editorInfo.foreground": "#2ea4db",
+    "editorHint.foreground": "#83b89f",
+    "editorUnnecessaryCode.opacity": "#000000a0",
+    // gutter, supposedly the thing under line numbers
+    "editorGutter.background": "#f5e4f8",
+    "editorGutter.commentGlyphForeground": "#772d83",
+    "editorGutter.commentRangeForeground": "#772d83",
+    "editorGutter.foldingControlForeground": "#772d83",
 
+    // Diff editor
+    "diffEditor.insertedLineBackground": "#bee2d180",
+    "diffEditor.insertedTextBackground": "#bee2d180",
+    "diffEditor.removedTextBackground": "#ffa1a180",
+    "diffEditor.removedLineBackground": "#ffa1a180",
+    "diffEditorGutter.insertedLineBackground": "#bee2d1b0",
+    "diffEditorGutter.removedLineBackground": "#ffa1a1b0",
+    "diffEditor.diagonalFill": "#9e73a5",
+
+    // Chat ... ??
+    "chat.requestBackground": "#f2e4f8",
+    // Inline chat ... ??
     
+    // Editor widgets
+    "editorWidget.background": "#f1e8f5",
+    "editorWidget.foreground": "#9e73a5",
+    "editorWidget.resizeBorder": "#9e73a5",
+
+    // Peek view (show definition, etc.)
+    "peekView.border": "#d0b6d8",
+    "peekViewEditor.background": "#f8effc",
+    "peekViewEditorGutter.background": "#f2e5f8",
+    "peekViewResult.background": "#f8effc",
+    "peekViewTitle.background": "#f7ecfd",
+    "peekViewTitleDescription.foreground": "#a54bbb",
 
     // Panel
     // Terminal and output and things like these below the editor
     "panel.background": "#f2e4f8",
+    "panel.dropBorder": "#d0b6d8",
+    "panelTitle.activeForeground": "#704e77",
+    "panelTitle.inactiveForeground": "#a491a8",
+    "panelSection.dropBackground": "#ecd3f7",
+
+    // Status bar
+    "statusBar.background": "#774f7c",
+    "statusBar.foreground": "#f1ecf3",
+    "statusBar.debuggingBackground": "#d81af1",
+    "statusBar.noFolderBackground": "#7a697c",
+    "statusBarItem.errorBackground": "#ff0000",
+    "statusBarItem.warningBackground": "#ff9100",
+    
+    // Key binding colours
+    "keybindingLabel.background": "#774f7c",
+    "keybindingLabel.foreground": "#f1ecf3",
 
     // Title bar
     // the title bar
@@ -184,12 +265,9 @@
     "titleBar.activeForeground": "#f1ecf3",
     "titleBar.inactiveBackground": "#989199",
     "titleBar.inactiveForeground": "#ded0e4",
-
-
-    // Status bar
-    "statusBar.background": "#774f7c",
-    "statusBar.foreground": "#f1ecf3"
-
+    // menu bar, I thought it is part of the title bar but
+    "menubar.selectionBackground": "#a580aa",
+    
 	},
 	"tokenColors": [
 		{
