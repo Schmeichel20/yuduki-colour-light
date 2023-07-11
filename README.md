@@ -6,7 +6,7 @@ Much purple, very Yukari, wow.
 
 The character Yuduki Yukari and related rights are owned and managed by [Vocalomakets](https://vocalomakets.com/); originally created by [Ayakura Juu](https://twitter.com/haino). This is a fan creation and by no means represent the aforementioned personnels and/or organisations.  
 
-*Technically, it's one personnel and one organisation, but I guess that's part of the formalities?*
+*Technically, it's one personnel and one organisation, but I guess that's part of the formalities?*  
 
 ## Screenshot
 
@@ -18,4 +18,8 @@ Go to [release](https://github.com/Schmeichel20/yuduki-colour-light/releases) an
 
 If you want to use it WIP, refer to [the Microsoft documentation](https://code.visualstudio.com/api/extension-guides/color-theme) (and related pages) on how to use an unpacked VS code colour theme.  
 
-Currently I have no plans of publishing this to the official VSC extension marketplace. Maybe I will at a later date.
+Currently I have no plans of publishing this to the official VSC extension marketplace. Maybe I will at a later date.  
+
+## Readability
+
+In case you want to modify this colour preset, you can refer to [Microsoft's theme colour guide](https://code.visualstudio.com/api/references/theme-color) for a better understanding of what each parameter is for.  
