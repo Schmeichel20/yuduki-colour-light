@@ -1,10 +1,7 @@
 {
 	"name": "Yuduki (Light)",
 	"colors": {
-		"editor.background": "#f7eefa",
-		"editor.foreground": "#3d2a40",
-    "list.activeSelectionIconForeground": "#dbc6df",
-
+	
     "focusBorder": "#9e4b97",
     "foreground": "#3d2a40",
     "disabledForeground": "#787279",
@@ -14,7 +11,6 @@
     "errorForeground": "#c40000",
     "icon.foreground": "#3d2a40",
 
-    "activityBar.background": "#79507e",
     "window.activeBorder": "#9e4b97",
     "window.inactiveBorder": "#744f70",
 
@@ -71,6 +67,7 @@
     "progressBar.background": "#7f4388",
 
     // lists and trees e.g. file explorer
+    "list.activeSelectionIconForeground": "#dbc6df",
     "list.activeSelectionBackground": "#d0b6d8",
     "list.inactiveSelectionBackground": "#e2dde4",
     "list.activeSelectionForeground": "#3d2a40",
@@ -100,6 +97,7 @@
 
     // Activity bar
     // The leftmost column housing icons
+    "activityBar.background": "#79507e",
     "activityBar.activeBackground": "#c98ac6",
     "activityBar.foreground": "#e2dde4",
     "activityBar.inactiveForeground": "#bfa4ca",
@@ -153,6 +151,26 @@
     "tab.inactiveForeground": "#b3a3b1",
     "tab.unfocusedActiveBackground": "#f4e8f7",
     "tab.unfocusedInactiveBackground": "#d2cdd4",
+    "tab.hoverBackground": "#ede4f0",
+    "tab.unfocusedHoverBackground": "#e0d8e4",
+    "sideBySideEditor.horizontalBorder": "#d0b6d8",
+    "sideBySideEditor.verticalBorder": "#d0b6d8",
+    "editorPane.background": "#fdf6ff",
+
+    // Editor!!!!
+    "editor.background": "#f7eefa",
+		"editor.foreground": "#3d2a40",
+    "editorLineNumber.activeForeground": "#ff9100",
+    "editorLineNumber.dimmedForeground": "#bdb0be",
+    "editorLineNumber.foreground": "#caa8cf",
+    "editorCursor.foreground": "#3d2a40",
+    "editor.selectionBackground": "#8ac6e2c0",
+    "editor.selectionHighlightBackground": "#b5dff380",
+    "editor.inactiveSelectionBackground": "#c9bccec0",
+    "editor.wordHighlightBackground": "#95c5a980",
+    "editor.findMatchBackground": "#85e5c5d0",
+    "editor.findMatchHighlightBackground": "#cbeee2a0",
+    
 
     
 
@@ -267,7 +285,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#973062"
+				"foreground": "#d3468a"
 			}
 		},
 		{
