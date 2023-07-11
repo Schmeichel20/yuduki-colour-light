@@ -1,8 +1,9 @@
 {
   "name": "yuduki-colour-light",
-  "displayName": "Yuduki Light",
+  "displayName": "Yuduki (Light)",
   "description": "A light colour theme based on Yuduki Yukari.",
-  "version": "0.0.1",
+  "publisher": "Mikkeli Matlock",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -17,5 +18,7 @@
         "path": "./themes/Yuduki (Light)-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/mikkelimatlock/yuduki-colour-light",
+  "icon": "images/yukari.png"
 }
